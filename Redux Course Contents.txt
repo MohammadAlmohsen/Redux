@@ -1,0 +1,5 @@
+1.create A Redux Store
+2.get state from the Redux Store
+3.Define a Redux Action
+4.Define an Action creator
+5.Dispatch an Action Event
