@@ -3,3 +3,9 @@
 3.Define a Redux Action
 4.Define an Action creator
 5.Dispatch an Action Event
+6.Handle an Action in the Store
+7.Use a Switch Statement to Handle Multiple Actions
+8.Use const for Action Types
+9.Register a Store Listener
+10.Combine Multiple Reducers
+11.Send Action Data to the Store
