@@ -9,3 +9,4 @@
 9.Register a Store Listener
 10.Combine Multiple Reducers
 11.Send Action Data to the Store
+12.Use Middleware to Handle Asynchronous Actions
