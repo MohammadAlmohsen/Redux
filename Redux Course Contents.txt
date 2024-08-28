@@ -10,3 +10,8 @@
 10.Combine Multiple Reducers
 11.Send Action Data to the Store
 12.Use Middleware to Handle Asynchronous Actions
+13.write a counter with Redux
+14.never mutate State 
+15. use the spread operator an arrays
+16.remove an item from an array
+17.copy an object with object.assign
